@@ -1,0 +1,3 @@
+name: PrisonCore
+version: ${project.version}
+main: me.madcuzdev.prisoncore.PrisonCore
